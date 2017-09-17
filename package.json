@@ -1,7 +1,7 @@
 {
   "name": "bitcoind-rpc-3dcoin",
-  "description": "Bitcoin Client Library to connect to Bitcoin Core via RPC",
-  "version": "0.7.0",
+  "description": "Bitcoin Client Library to connect to 3DCoin Core via RPC",
+  "version": "0.7.1",
   "author": {
     "name": "Stephen Pair",
     "email": "stephen@bitpay.com"
